@@ -1,0 +1,33 @@
+   body{
+                font-family: 'Anton', sans-serif;
+                font-family: 'Comfortaa', cursive;
+                font-family: 'Nunito', sans-serif;
+                font-family: 'Open Sans', sans-serif;
+                font-family: 'Poppins', sans-serif;
+                font-family: 'Roboto Mono', monospace;
+                font-family: 'Source Code Pro', monospace;
+                font-family: 'Titillium Web', sans-serif;
+                margin: 0px;
+                padding: 0px;
+            }    
+
+            h1{
+                text-align: center;
+                color: black;
+                font-weight: lighter;
+                margin-top: 150px;
+
+            }
+
+            button{
+                width:200px;
+                height: 70px;
+                text-align: center;
+                padding:15px;
+                margin-top: 70px;
+                margin-left: 43%;
+                border-radius: 10px;
+                border: none;
+                box-shadow: 2px 5px 10px 0px grey;
+            }
+    
